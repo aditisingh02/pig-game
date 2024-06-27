@@ -2,6 +2,7 @@
 
 <h2>🌠Overview</h2>
 In the game, two players take turns rolling two dice. The goal is to accumulate points while avoiding rolling a 1. Players can choose to “Hold” their current score to add it to their global score.
+<h2></h2>
 
 ![image](https://github.com/aditisingh02/pig-game/assets/140513260/deaadbab-9474-496e-a7bc-820090309757)
 
